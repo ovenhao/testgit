@@ -1,0 +1,4 @@
+import java.util.*;
+public static void testdemo(String[] args){
+	System.out.println("Hello Word!");
+}
